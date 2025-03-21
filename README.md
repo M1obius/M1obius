@@ -1,8 +1,6 @@
 ## Welcome to HoD.
 
-https://files.catbox.moe/ka4uo6.jpeg
-
-<img width="866" alt="image" src="https://github.com/user-attachments/assets/ffd8164f-abec-450a-ac59-40859178bdea" />
+<img width="855" alt="image" src="https://github.com/user-attachments/assets/3176058c-c7a8-4f34-9885-eecabde7fc1c" />
 
 
 
