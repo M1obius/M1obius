@@ -1,6 +1,7 @@
 ## Welcome to HoD.
 
-![image](https://github.com/user-attachments/assets/b84870b8-e7b2-4b74-8d5f-ed2fc3d6454c)
+![image](https://github.com/user-attachments/assets/703a6763-4f03-40f2-a445-343d782637f4)
+
 
 
 
