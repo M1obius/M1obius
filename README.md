@@ -1,8 +1,8 @@
 ## Welcome to HoD.
 
-Last updated: 24th of march 2025
+Last updated: 29th of march 2025
 
-![image](https://github.com/user-attachments/assets/3c8a28e2-a93b-4872-880c-6fc7740e488c)
+<img width="936" alt="image" src="https://github.com/user-attachments/assets/1bc172be-372b-400c-9091-45cb4fad47e8" />
 
 
 
