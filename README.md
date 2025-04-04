@@ -7,8 +7,10 @@ Last updated: 4th april 2025 14:24 Germany time
 
 
 
-Joins open, ask family member or Parody(server join, help)
+Joins open, ask family member or Parody(help)
+
 Joins closed: Parody, Xian, Dray, Amber, Claire
+
 , due to no space/limit(or over the limit)
 
 
