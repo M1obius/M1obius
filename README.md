@@ -1,9 +1,10 @@
 ## Welcome to HoD.
 
-Last updated: 4th april 2025 14:23 Germany time
+Last updated: 4th april 2025 14:24 Germany time
 
 
-![image](https://github.com/user-attachments/assets/859ee809-1128-45ee-8282-2da275eb5df6)
+<img width="1043" alt="image" src="https://github.com/user-attachments/assets/7fceacbb-ec04-4870-b583-13e17482ff4a" />
+
 
 
 
